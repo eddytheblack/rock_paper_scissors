@@ -1,7 +1,7 @@
 # rock_paper_scissors
 
 ## Requirements
-Node.js and npm are required. To install both components run the `install.sh script`. The downloads are compatible with
+Node.js and npm are required. To install both components run the `install.sh` script. The downloads are compatible with
 OS X and Linux (Debian) distrubutions only.
 
 If scripts fail to install simply download from the https://nodejs.org/en/ website
