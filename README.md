@@ -7,7 +7,7 @@ OS X and Linux (Debian) distrubutions only.
 If scripts fail to install simply download from the https://nodejs.org/en/ website.
 
 ## Running the application
-To run the application perform `npm start` in the terminal and direct to http://localhost:8000 to interact with the game
+To run the application perform the `npm start` command and direct to http://localhost:8000 to interact with the game.
 .
 
 ## Running tests
